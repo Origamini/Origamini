@@ -1,3 +1,4 @@
+![logo](https://github.com/Origamini/Origamini/blob/main/gitpic.jpg)
 <h1 align="center">Hi 👋, I'm Kavitha Kumari</h1>
 <h3 align="center">Web developer skilled in HTML, CSS, JavaScript, and AWS with 2 years of cloud experience.</h3>
 
